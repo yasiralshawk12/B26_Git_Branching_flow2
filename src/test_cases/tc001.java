@@ -5,5 +5,6 @@ public class tc001 {
         // testing something
         // I love java
         // add new line negative testing
+        // positive testing
     }
 }
